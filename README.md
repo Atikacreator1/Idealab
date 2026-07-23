@@ -59,15 +59,15 @@ Developers and creators frequently encounter **"blank canvas paralysis"** when b
 ## 🖼️ Application Screenshots
 
 ### 1. Developer Dashboard & Sparks Catalog
-![IdeaLab Dashboard Preview](./src/assets/images/idealab_dashboard_preview_1784654545661.jpg)
+src/assets/images/dashboard.png
 *Figure 1: Main portal dashboard displaying curated technical sparks, search bar, and industry domain filters.*
 
 ### 2. AI Blueprint Generator Interface
-![IdeaLab Generator Preview](./src/assets/images/idealab_generator_preview_1784654568195.jpg)
+src/assets/images/blueprint.png
 *Figure 2: AI Spark Generator workspace with custom domain, vibe, complexity, and tech stack parameters.*
 
 ### 3. Architecture Blueprint & Multi-Format PDF Exporter
-![IdeaLab Blueprint & PDF Export Preview](./src/assets/images/idealab_blueprint_pdf_preview_1784654586837.jpg)
+src/assets/images/generator.png
 *Figure 3: Interactive blueprint modal showing the 3-phase implementation roadmap and PDF document export.*
 
 ---
@@ -197,4 +197,3 @@ The application is deployed live and fully functional at:
 👉 **[https://ais-pre-je5u2nwalarkbfnl7p5iu7-606312097545.asia-southeast1.run.app](https://ais-pre-je5u2nwalarkbfnl7p5iu7-606312097545.asia-southeast1.run.app)**
 
 ---
-*Created with Google AI Studio & Gemini Models.*
